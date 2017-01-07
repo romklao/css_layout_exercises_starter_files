@@ -1,1 +1,62 @@
+nav {
+    position: relative;
+    height: 60px;
+    background-color: grey;
+}
+
+.navbar {
+    display: inline-block;
+}
+
+.unorderlist {
+    margin-left: 120px;
+    margin-top: 25px; 
+}
+.cat {
+    position: absolute;
+    width: 50px;
+    border-radius: 50%;
+    left: 60px;
+    margin-top: 5px;
+}
+
+#background {
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.box_green {
+    position: relative;
+    top: 170px;
+    width: 600px;
+    height: 300px;
+    border: 10px green dotted;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.space_cat, .space_dog {
+    position: absolute;
+    width: 200px; 
+    height: 200px;
+
+}
+.space_cat {
+    left: 213px;
+    top: 120px;
+}
+
+.space_dog {
+    right: 213px;
+    top: 420px;
+}
+
+
+
+
+
+
+
+
 
